@@ -1,0 +1,43 @@
+# CiberShield — .gitignore
+# NUNCA subir código fuente ni credenciales
+
+# Código fuente (PRIVADO)
+*.php
+*.html
+*.css
+*.js
+
+# Credenciales
+.env
+.env.*
+*.key
+*.pem
+*.crt
+config.json
+credentials.*
+
+# Servidor
+.htaccess
+*.log
+*.bak
+*.tmp
+*.swp
+
+# Datos
+*.json
+leads_data/
+*.csv
+
+# Dependencias
+node_modules/
+vendor/
+PHPMailer/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
