@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cibershield.io/imagenes/logo-escudo.png" alt="CiberShield" width="80"/>
+  <img src="https://cibershield.io/1.png" alt="CiberShield" width="700"/>
 </p>
 
 <h1 align="center">ShieldScan</h1>
